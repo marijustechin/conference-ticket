@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Inconsolata";
+  src: url("../public/assets/fonts/Inconsolata-Variable.ttf");
+}
